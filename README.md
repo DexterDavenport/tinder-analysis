@@ -30,6 +30,8 @@ Pandas
 * [pandas](https://pandas.pydata.org/docs/user_guide/10min.html#min)
 * [towardsdatascience](https://towardsdatascience.com/getting-started-to-data-analysis-with-python-pandas-with-titanic-dataset-a195ab043c77)
 
+* [Link to specific data set](https://www.kaggle.com/datasets/shivkumarganesh/tinder-google-play-store-review)
+
 # Future Work
 
 * create interface other than terminal to display information
